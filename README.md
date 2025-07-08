@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnunaik-n-t&label=Profile%20views&color=0e75b6&style=flat" alt="vishnunaik-n-t" /> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 Software engineer at **Pace Wisdom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
